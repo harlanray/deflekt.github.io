@@ -4,16 +4,15 @@ body {
 }
 
 .logo {
-    margin-top: 188px;
+    margin-top: 187px;
     text-align: center;
 }
 
 img {
-    width:58%;
+    width:27%;
     height: auto;
 }
 
 .update {
-    margin-top: 45px;
-    width: 40%;
+    margin-left: auto
 }
